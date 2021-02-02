@@ -1,0 +1,2 @@
+module stato_server {
+}
